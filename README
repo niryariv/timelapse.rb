@@ -1,0 +1,7 @@
+This script helps you take time lapse photos using a Mac's built in iSight camera.
+
+It requires iSightCapture: http://www.intergalactic.de/pages/iSight.html
+
+You might want to use GIFfun ( http://www.stone.com/GIFfun/ ) to turn the photos into an animated GIF, or ffmpeg ( http://www.ffmpeg.org/ )to turn them into a video.
+
+More info here: http://niryariv.wordpress.com/2010/02/12/time-lapse-photography-with-macbooks-isight/
